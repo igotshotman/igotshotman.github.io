@@ -1,8 +1,9 @@
-let number = 1;
+
 do {
   
   function login()
   {
+     let number = 1;
      var log=prompt("Login ID (admin)");
      var pass=prompt("Password (password)");
      if(log=="admin" && pass=="password")
