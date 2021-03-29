@@ -4,8 +4,8 @@
   function login()
   {
      var number = 1;
-     var log=prompt("Login ID (admin)");
-     var pass=prompt("Password (password)");
+     var log=prompt("Login ID (login with 'admin')");
+     var pass=prompt("Password (password is 'password')");
      if(log=="admin" && pass=="password")
     {
       alert("Access to resume granted!");
