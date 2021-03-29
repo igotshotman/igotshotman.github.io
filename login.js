@@ -1,5 +1,4 @@
 
-do {
   
   function login()
   {
@@ -9,7 +8,10 @@ do {
      if(log=="admin" && pass=="password")
     {
       alert("Access to resume granted!");
-      number++;
+      function javascript_abort()
+        {
+           throw new Error('ignore');
+        }
       }
    else
       {
@@ -19,4 +21,3 @@ do {
 login();
   
   } 
-while (number = 1);
