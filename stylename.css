@@ -16,6 +16,7 @@ h1{
 }
 .format {
   border: 1px solid black;
+  padding: 10px;
   background-color: rgba(99,99,99,.3);
   box-shadow: 1px 1px 1px black,
               1px 1px 1px black,
