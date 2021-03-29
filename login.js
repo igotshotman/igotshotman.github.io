@@ -14,7 +14,7 @@
       }
    else
       {
-    alert("Access Denied!!");
+    alert("Access Denied!! login details are in the login prompt. the website you are being redirected to is not mine, and i am in no way affiliated.");
    window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
       }
   }
