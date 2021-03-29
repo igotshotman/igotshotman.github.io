@@ -14,7 +14,7 @@
    else
       {
     alert("Access Denied!!");
-         window.location.replace("http://www.w3schools.com")
+         window.location.replace("http://www.w3schools.com");
     
     }
   }
