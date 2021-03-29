@@ -15,7 +15,7 @@
    else
       {
     alert("Access Denied!!");
-   window.location.replace("http://www.w3schools.com");
+   window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
       }
   }
 login();
