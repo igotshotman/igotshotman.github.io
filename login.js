@@ -8,14 +8,14 @@
      if(log=="admin" && pass=="password")
     {
       alert("Access to resume granted!");
-      function javascript_abort()
-        {
-           throw new Error('ignore');
-        }
+      
+       
       }
    else
       {
     alert("Access Denied!!");
+         window.location.replace("http://www.w3schools.com")
+    
     }
   }
 login();
