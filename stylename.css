@@ -1,24 +1,27 @@
-
 body {
-  background-color: white;
-  color: grey;
+  color: black;
   font-family: Helvetica, sans-serif;
   
 }
 .stylename {
-  background-color: maroon;
+  background-color: rgba(99,99,99,.3);
   border: 1px solid black;
-}
-.stylinfo {
-  background-color: maroon;
-  border: 1px solid black;
+
 }
 h1{
-  color: grey;
+  color: black;
   font-size: 45px;
   font-family: Helvetica;
+  
 }
 .format {
   border: 1px solid black;
+  background-color: rgba(99,99,99,.3);
+  box-shadow: 1px 1px 1px black,
+              1px 1px 1px black,
+              1px 1px 1px red,
+              1px 3px 1px red,
+              5px 5px 1px black,
+              6px 6px 4px grey;
   
 }
